@@ -1,7 +1,7 @@
 const settings = require("../settings");
 async function aliveCommand(sock, chatId, message) {
     try {
-        const message1 = `*🤖 Arslan-Ai is Active!*\n\n` +
+        const message1 = `*🤖 ༄❀𝙿𝙷𝙾𝚁𝙰-𝙼𝙳❀༄ is Active!*\n\n` +
                        `*Version:* ${settings.version}\n` +
                        `*Status:* Online\n` +
                        `*Mode:* Public\n\n` +
