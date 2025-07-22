@@ -99,8 +99,8 @@ const videoCommand = require('./commands/video');
 // Global settings
 global.packname = settings.packname;
 global.author = settings.author;
-global.channelLink = "https://whatsapp.com/channel/0029VarfjW04tRrmwfb8x306";
-global.ytch = "ArslanMD Official";
+global.channelLink = "https://chat.whatsapp.com/Fb5EodPXIvvF0IN0Rr9Jp8?mode=ac_t";
+global.ytch = "Tristany71";
 
 // Add this near the top of main.js with other global configurations
 const channelInfo = {
@@ -109,7 +109,7 @@ const channelInfo = {
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
             newsletterJid: '120363348739987203@newsletter',
-            newsletterName: 'Arslan-Ai',
+            newsletterName: '༄❀𝙿𝙷𝙾𝚁𝙰-𝙼𝙳❀༄',
             serverMessageId: -1
         }
     }
