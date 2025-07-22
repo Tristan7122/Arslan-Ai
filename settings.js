@@ -40,7 +40,7 @@ const settings = {
   
   // 👑 Ownership
   botOwner: "༄❀𝙿𝙷𝙾𝚁𝙰-𝙼𝙳❀༄",
-  ownerNumber: "27634624586",
+  ownerNumber: "27689344972",
   coOwners: [], // Add secondary owners if needed
   
   // ⚙️ Operation Modes
