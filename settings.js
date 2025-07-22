@@ -40,7 +40,7 @@ const settings = {
   
   // 👑 Ownership
   botOwner: "𝚃𝚞𝚎𝚜𝚍𝚊𝚢",
-  ownerNumber: "27689344972",
+  ownerNumber: "27634624586",
   coOwners: "27634624586", // Add secondary owners if needed
   
   // ⚙️ Operation Modes
