@@ -39,9 +39,9 @@ const settings = {
   version: "3.0.0", // Major version upgrade
   
   // 👑 Ownership
-  botOwner: "༄❀𝙿𝙷𝙾𝚁𝙰-𝙼𝙳❀༄",
-  ownerNumber: "27634624586",
-  coOwners: [], // Add secondary owners if needed
+  botOwner: "𝚃𝚞𝚎𝚜𝚍𝚊𝚢",
+  ownerNumber: "27689344972",
+  coOwners: "27634624586", // Add secondary owners if needed
   
   // ⚙️ Operation Modes
   MODE: "public", // public/private/group-only
@@ -71,8 +71,8 @@ const settings = {
   
   // 🎨 Media
   menuMedia: {
-    image: "ArslanMedia/media/bot_image.jpg",
-    video: "ArslanMedia/media/menu.mp4",
+    image: "https://i.ibb.co/SD6M3ggy/41911f666fca7233.jpg",
+    video: "https://i.imgur.com/L3cM1hE.mp4",
     gif: "ArslanMedia/media/menu.gif"
   },
   
@@ -83,7 +83,7 @@ const settings = {
   // 🌍 Metadata
   description: "⚡ The Most Advanced WhatsApp Bot with ULTRA PRO MAX Features",
   website: "https://arslan-md.com",
-  ytchannel: "https://youtube.com/@arslanmdofficial",
+  ytchannel: "https://youtube.com/@tristany71",
   repo: "https://github.com/Arslan-MD/Arslan-Ai",
   
   // 🔄 System
